@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/recipesFragment"
+        android:icon="@drawable/ic_list"
+        android:title="@string/str_nav_recipes" />
+    <item
+        android:id="@+id/addRecipeFragment"
+        android:icon="@drawable/ic_map"
+        android:title="@string/str_nav_add_recipe" />
+    <item
+        android:id="@+id/settingsFragment"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/str_nav_settings" />
+</menu>

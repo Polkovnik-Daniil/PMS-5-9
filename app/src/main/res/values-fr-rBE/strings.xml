@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyRecipe</string>
+    <string name="str_recipe_ingredients">Ingrédients</string>
+    <string name="str_recipe_description">Description</string>
+    <string name="str_btn_save">Sauvegarder</string>
+    <string name="str_btn_delete">Supprimer</string>
+    <string name="str_card_iv_recipe">Vue avec image</string>
+    <string name="str_learn_more">Plus</string>
+    <string name="str_more_markets_btn">Plus de Supermarchés</string>
+    <string name="str_delete_recipe">Supprimer</string>
+    <string name="str_recipe_name">Nom de Recette</string>
+    <string name="str_nav_nearby_markets">Supermarchés à proximité</string>
+    <string name="str_nav_settings">Paramètres</string>
+    <string name="str_nav_recipes">Recettes</string>
+    <string name="str_french">Français</string>
+    <string name="str_english">Anglais</string>
+    <string name="str_dutch">Néerlandais</string>
+    <string name="str_load_image">Choisir</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyRecipe</string>
+    <string name="str_recipe_name">Recept Naam</string>
+    <string name="str_delete_recipe">Verwijderen</string>
+    <string name="str_more_markets_btn">Meer Supermarkten</string>
+    <string name="str_learn_more">Meer</string>
+    <string name="str_card_iv_recipe">View met foto</string>
+    <string name="str_btn_delete">Verwijderen</string>
+    <string name="str_btn_save">Opslaan</string>
+    <string name="str_recipe_description">Omschrijving</string>
+    <string name="str_recipe_ingredients">Ingrediënten</string>
+    <string name="str_nav_recipes">Recepten</string>
+    <string name="str_nav_nearby_markets">Nabijgelegen markten</string>
+    <string name="str_nav_settings">Instellingen</string>
+    <string name="str_french">Frans</string>
+    <string name="str_english">Engels</string>
+    <string name="str_dutch">Nederlands</string>
+    <string name="str_load_image">Kies</string>
+</resources>
